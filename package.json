@@ -1,6 +1,6 @@
 {
-  "name": "tradingview-scanner",
-  "version": "1.0.2",
+  "name": "tradingview-btcusd",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xclawkevin/TradingView-Scanner.git"
+    "url": "https://github.com/kurangkeras/tradingview-btcusd.git"
   },
-  "author": "xclawkevin",
+  "author": "kurangkeras",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xclawkevin/TradingView-Scanner/issues"
+    "url": "https://github.com/kurangkeras/tradingview-btcusd/issues"
   },
-  "homepage": "https://github.com/xclawkevin/TradingView-Scanner#readme",
+  "homepage": "https://github.com/kurangkeras/tradingview-btcusd#readme",
   "dependencies": {
     "axios": "^1.6.7",
     "fs-extra": "^11.2.0"
