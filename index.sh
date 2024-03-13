@@ -14,6 +14,6 @@ d=`date '+%Y-%m-%dT%H:%M:%SZ'`
 
 sed -i "s/Last Update: .*/Last Update: ${d}/" README.md
 
-git config --local user.email "richuser5958@gmail.com"
-git config --local user.name "ChefClaw"
+git config --local user.email "kurangkeras@gmail.com"
+git config --local user.name "kurangkeras"
 git commit -am "${arr[$rand]} - Last Update ${d}"
