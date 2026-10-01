@@ -1,10 +1,10 @@
 # TradingView Scanner
-This data is retrieved from TradingView Scanner API, Last updated at 2026-10-01T15:03:32.888Z
+This data is retrieved from TradingView Scanner API, Last updated at 2026-10-01T20:46:25.758Z
 
 ## Recomendation
 | Stoch | WR | BBPower | UO | Ichimoku | RSI | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Neutral | Neutral | Buy | Neutral | Neutral | Sell | Buy |
+| Neutral | Neutral | Neutral | Neutral | Neutral | Sell | Buy |
 
 ## Pivot Points Classic
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
@@ -34,9 +34,9 @@ This data is retrieved from TradingView Scanner API, Last updated at 2026-10-01T
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 52.82 | 33.03 | 30.75 | 86.94 | 18.11 | 13.22 | -148.13 | 356.75 | -33.83 | -85.29 | -59.37 | 83720.46 |
+| 57.42 | 56.36 | 46.43 | 187.15 | 21.85 | 11.66 | 227.05 | 1240.23 | 98.00 | -25.81 | -39.92 | 84493.06 |
 
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 83706.50 | 83660.27 | 83712.49 | 83568.48 | 83732.14 | 83790.41 | 83536.22 | 83964.52 | 82444.14 | 82155.97 | 79978.78 | 80294.35 |
+| 84002.67 | 83930.81 | 83875.79 | 83709.49 | 83842.55 | 83817.55 | 83619.51 | 83956.84 | 82529.52 | 82302.74 | 80070.74 | 80363.34 |
